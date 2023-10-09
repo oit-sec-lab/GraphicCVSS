@@ -15,3 +15,6 @@ python3 file_get.py
 ```
 python3 app.py
 ```
+
+##動作環境
+requirements.txt参照
